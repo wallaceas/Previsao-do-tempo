@@ -21,3 +21,7 @@ Funcionalidade (JavaScript):
 
 O botão de busca possui um evento onclick que chama a função cliqueiNoBotao(), definida no arquivo script.js (a funcionalidade dessa função não está implementada neste trecho de código, mas, provavelmente, ela iria buscar os dados de previsão do tempo para a cidade digitada pelo usuário).
 Resumindo, esse projeto tem o objetivo de fornecer informações sobre a previsão do tempo, permitindo ao usuário consultar a previsão de uma cidade específica, embora a interação completa ainda precise de implementação no código JavaScript.
+
+IMAGEM ILUSTRATIVA DO PROJETO
+
+![imagem do projeto](https://github.com/user-attachments/assets/f2fb875a-cc60-4bc4-baa1-94d6a3e5fb30)
