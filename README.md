@@ -46,3 +46,7 @@ previsao-tempo/
 ## IMAGEM ILUSTRATIVA DO PROJETO
 
 ![imagem do projeto](https://github.com/user-attachments/assets/f2fb875a-cc60-4bc4-baa1-94d6a3e5fb30)
+
+---
+
+Desenvolvido por Wallace Araújo.
